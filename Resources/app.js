@@ -1,6 +1,8 @@
 /*
  * plik glowny
  * okno startowe
+ *	zmienione dane
+ *
  */
 var props = Titanium.App.Properties.listProperties();
 // Titanium.API.info(props.length);
