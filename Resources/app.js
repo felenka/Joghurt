@@ -2,6 +2,8 @@
  * plik glowny
  * okno startowe
  *	zmienione dane
+ *	bla bla bla
+ *
  *
  */
 var props = Titanium.App.Properties.listProperties();
