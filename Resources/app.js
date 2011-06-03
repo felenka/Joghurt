@@ -1,8 +1,7 @@
 /*
  * plik glowny
  * okno startowe
- *	zmienione dane
- *	bla bla bla
+ * cos
  *
  *
  */
